@@ -1,0 +1,90 @@
+2023-04-02 10:27:32,792 [MainThread] INFO: setting language to: en_US
+2023-04-02 10:27:33,926 [Dummy-1] INFO: set_stroke_filename(C:\Users\micah\AppData\Local\plover\plover\strokes.log)
+2023-04-02 10:27:33,926 [Dummy-1] INFO: loading system: English Stenotype
+2023-04-02 10:27:34,413 [Dummy-1] INFO: setting machine: Keyboard
+2023-04-02 10:27:34,416 [Dummy-1] WARNING: the following registry key has been updated, you should reboot: HKEY_CURRENT_USER\Control Panel\Desktop\LowLevelHooksTimeout
+2023-04-02 10:27:35,114 [Dummy-1] INFO: recreating c:\users\micah\appdata\local\plover\plover\user.json from asset:plover:assets\user.json
+2023-04-02 10:27:35,115 [Dummy-1] INFO: recreating c:\users\micah\appdata\local\plover\plover\commands.json from asset:plover:assets\commands.json
+2023-04-02 10:27:35,153 [Dummy-1] INFO: recreating c:\users\micah\appdata\local\plover\plover\main.json from asset:plover:assets\main.json
+2023-04-02 10:27:35,174 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\user.json
+2023-04-02 10:27:35,200 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\commands.json
+2023-04-02 10:27:35,210 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\main.json
+2023-04-02 10:27:36,244 [Dummy-1] INFO: loaded 3 dictionaries in 1.070s
+2023-04-07 11:19:00,019 [MainThread] INFO: setting language to: en_US
+2023-04-07 11:19:01,433 [Dummy-1] INFO: set_stroke_filename(C:\Users\micah\AppData\Local\plover\plover\strokes.log)
+2023-04-07 11:19:01,433 [Dummy-1] INFO: loading system: English Stenotype
+2023-04-07 11:19:02,009 [Dummy-1] INFO: setting machine: Keyboard
+2023-04-07 11:19:02,647 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\user.json
+2023-04-07 11:19:02,651 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\commands.json
+2023-04-07 11:19:02,658 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\main.json
+2023-04-07 11:19:03,481 [Dummy-1] INFO: loaded 3 dictionaries in 0.834s
+2023-04-13 13:47:49,242 [MainThread] INFO: setting language to: en_US
+2023-04-13 13:47:49,869 [Dummy-1] INFO: set_stroke_filename(C:\Users\micah\AppData\Local\plover\plover\strokes.log)
+2023-04-13 13:47:49,869 [Dummy-1] INFO: loading system: English Stenotype
+2023-04-13 13:47:50,098 [Dummy-1] INFO: setting machine: Keyboard
+2023-04-13 13:47:50,389 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\user.json
+2023-04-13 13:47:50,389 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\commands.json
+2023-04-13 13:47:50,390 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\main.json
+2023-04-13 13:47:50,962 [Dummy-1] INFO: loaded 3 dictionaries in 0.573s
+2023-04-13 13:48:33,667 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2023-04-13 13:48:34,314 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2023-04-13 14:55:34,233 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2023-04-13 14:55:34,860 [Dummy-1] INFO: loaded 3 dictionaries in 0.001s
+2023-04-13 14:58:13,375 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2023-04-13 14:58:19,929 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2023-04-13 14:58:21,158 [Dummy-1] INFO: loaded 3 dictionaries in 0.001s
+2023-04-13 16:48:35,670 [Dummy-1] INFO: loaded 3 dictionaries in 0.001s
+2023-04-13 16:48:35,827 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2023-04-13 16:48:36,663 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2023-04-14 10:32:15,096 [MainThread] INFO: setting language to: en_US
+2023-04-14 10:32:15,714 [Dummy-1] INFO: set_stroke_filename(C:\Users\micah\AppData\Local\plover\plover\strokes.log)
+2023-04-14 10:32:15,714 [Dummy-1] INFO: loading system: English Stenotype
+2023-04-14 10:32:15,926 [Dummy-1] INFO: setting machine: Keyboard
+2023-04-14 10:32:16,210 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\user.json
+2023-04-14 10:32:16,210 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\commands.json
+2023-04-14 10:32:16,211 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\main.json
+2023-04-14 10:32:16,790 [Dummy-1] INFO: loaded 3 dictionaries in 0.580s
+2023-04-14 10:45:56,230 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2023-04-14 10:46:08,793 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2023-04-14 10:46:09,732 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2023-04-23 07:44:31,500 [MainThread] INFO: setting language to: en_US
+2023-04-23 07:44:32,191 [Dummy-1] INFO: set_stroke_filename(C:\Users\micah\AppData\Local\plover\plover\strokes.log)
+2023-04-23 07:44:32,191 [Dummy-1] INFO: loading system: English Stenotype
+2023-04-23 07:44:32,425 [Dummy-1] INFO: setting machine: Keyboard
+2023-04-23 07:44:32,726 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\user.json
+2023-04-23 07:44:32,726 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\commands.json
+2023-04-23 07:44:32,727 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\main.json
+2023-04-23 07:44:33,329 [Dummy-1] INFO: loaded 3 dictionaries in 0.602s
+2023-05-04 16:31:59,190 [MainThread] INFO: setting language to: en_US
+2023-05-07 15:56:21,664 [MainThread] INFO: setting language to: en_US
+2023-05-07 15:56:23,134 [Dummy-1] INFO: set_stroke_filename(C:\Users\micah\AppData\Local\plover\plover\strokes.log)
+2023-05-07 15:56:23,134 [Dummy-1] INFO: loading system: English Stenotype
+2023-05-07 15:56:23,376 [Dummy-1] INFO: setting machine: Keyboard
+2023-05-07 15:56:23,849 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\user.json
+2023-05-07 15:56:23,850 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\commands.json
+2023-05-07 15:56:23,851 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\main.json
+2023-05-07 15:56:24,509 [Dummy-1] INFO: loaded 3 dictionaries in 0.660s
+2023-07-04 08:41:52,207 [MainThread] INFO: setting language to: en_US
+2023-07-04 08:41:54,312 [Dummy-1] INFO: set_stroke_filename(C:\Users\micah\AppData\Local\plover\plover\strokes.log)
+2023-07-04 08:41:54,312 [Dummy-1] INFO: loading system: English Stenotype
+2023-07-04 08:41:54,608 [Dummy-1] INFO: setting machine: Keyboard
+2023-07-04 08:41:55,043 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\user.json
+2023-07-04 08:41:55,043 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\commands.json
+2023-07-04 08:41:55,044 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\main.json
+2023-07-04 08:41:55,867 [Dummy-1] INFO: loaded 3 dictionaries in 0.824s
+2023-07-15 18:18:31,477 [MainThread] INFO: setting language to: en_US
+2023-07-15 18:18:32,208 [Dummy-1] INFO: set_stroke_filename(C:\Users\micah\AppData\Local\plover\plover\strokes.log)
+2023-07-15 18:18:32,208 [Dummy-1] INFO: loading system: English Stenotype
+2023-07-15 18:18:32,440 [Dummy-1] INFO: setting machine: Keyboard
+2023-07-15 18:18:32,760 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\user.json
+2023-07-15 18:18:32,760 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\commands.json
+2023-07-15 18:18:32,761 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\main.json
+2023-07-15 18:18:33,388 [Dummy-1] INFO: loaded 3 dictionaries in 0.628s
+2023-08-25 17:40:49,816 [MainThread] INFO: setting language to: en_US
+2023-08-25 17:40:50,739 [Dummy-1] INFO: set_stroke_filename(C:\Users\micah\AppData\Local\plover\plover\strokes.log)
+2023-08-25 17:40:50,739 [Dummy-1] INFO: loading system: English Stenotype
+2023-08-25 17:40:50,983 [Dummy-1] INFO: setting machine: Keyboard
+2023-08-25 17:40:51,523 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\user.json
+2023-08-25 17:40:51,523 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\commands.json
+2023-08-25 17:40:51,524 [Dummy-1] INFO: loading dictionary: c:\users\micah\appdata\local\plover\plover\main.json
+2023-08-25 17:40:52,140 [Dummy-1] INFO: loaded 3 dictionaries in 0.617s
