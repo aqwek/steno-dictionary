@@ -1,4 +1,11 @@
 # steno-dictionary
 hosting my plover files for making a stenography dictionary at school
 
-I'm trying to make a reliable Plover emulator, with the entire dictionary, where you can use steno at school, no Plover needed. Hopefully in the future I can attempt to allow .json file uploads where you can upload your own plover folder and the website can use you dictionaries, but that is a long way away.
+Current Goals:
+ - Extension (Problems: RawStenoStroke that is used to translate to text isnt resetting after each stroke, just adds on the new strokes in steno order lol, not outputting text, not stopping the original keys being outputted)
+ - Website 0%
+ - Scratch Project: (Problems: storing the main.json is rly hard, im attempting using an ask block to store it currently. I've seen the image compresser, no idea how it works or how to use it)
+
+main.json is in this if you want to use it, get the link.
+
+Might upload the extension to web store, I'll need to use it on my Chromebook
